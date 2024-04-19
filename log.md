@@ -10,7 +10,7 @@
 1. https://github.com/Shruthi-10/Ferris-wheel-using-CSS-animations
 
 
-### Day 1: April 18 2024, Thursday
+### Day 2: April 18 2024, Thursday
 
 **Today's Progress**: Halfway into building a cute cat painting usinf CSS on freecodecamp
 
