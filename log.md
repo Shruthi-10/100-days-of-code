@@ -8,3 +8,17 @@
 
 **Link(s) to work**
 1. https://github.com/Shruthi-10/Ferris-wheel-using-CSS-animations
+
+
+### Day 1: April 18 2024, Thursday
+
+**Today's Progress**: Halfway into building a cute cat painting usinf CSS on freecodecamp
+
+**Thoughts** Once again, CSS is so powerful?
+
+**Link(s) to work**
+1. https://github.com/Shruthi-10/Cat-Painting-fcc
+
+
+
+
