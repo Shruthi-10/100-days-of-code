@@ -30,5 +30,15 @@
 1. https://github.com/Shruthi-10/Cat-Painting-fcc
 
 
+### Day 4: April 20 2024, Saturday
+
+**Today's Progress** Worked with eventListerners and a few other new stuff on JavaScript  
+
+**Thoughts** I want to practise javaScript a lot more. It seems challenging but also a lot of fun. 
+
+**Link(s) to work**
+1. https://github.com/Shruthi-10/Potluck-Project-Skillcrush-
+
+
 
 
