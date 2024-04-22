@@ -40,5 +40,16 @@
 1. https://github.com/Shruthi-10/Potluck-Project-Skillcrush-
 
 
+### Day 5: April 21 2024, Sunday
+
+**Today's Progress** Worked with functions in javaScript. Started with a skillcrush project. Started a personal project to build a minimal todo list.          
+
+**Thoughts** I need a lot more practise with javaScript. I am enjoying javaScript the most. It can do so much. I hope it gets easier soon, because I am struggling to understand even when I look at the solution code. Functions, variables, scope, parameters everything is a mess in my head at the moment.  
+
+**Link(s) to work**
+1. https://github.com/Shruthi-10/Potluck-Project-Skillcrush-
+2. https://github.com/Shruthi-10/Minimalist-TODO-List-App
+
+
 
 
