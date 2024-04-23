@@ -51,5 +51,15 @@
 2. https://github.com/Shruthi-10/Minimalist-TODO-List-App
 
 
+### Day 6: April 22 2024, Monday
+
+**Today's Progress** Very slow day. Worked on Skillcrush javaScript project mainly and for a short duration on a personal project.    
+
+**Thoughts** Need to put in more work. 
+
+**Link(s) to work**
+1. https://github.com/Shruthi-10/Minimalist-TODO-List-App
+
+
 
 
