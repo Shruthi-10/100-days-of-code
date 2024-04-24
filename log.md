@@ -61,5 +61,15 @@
 1. https://github.com/Shruthi-10/Minimalist-TODO-List-App
 
 
+### Day 7: April 23 2024, Tuesday
+
+**Today's Progress** Started working on a project following along a youtube tutorial (thank for the idea Amanda :) ).   
+
+**Thoughts** Should divide my day between learning and building projects. 
+
+**Link(s) to work**
+1. https://github.com/Shruthi-10/heart-trail-animation
+
+
 
 
