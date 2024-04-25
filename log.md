@@ -71,5 +71,15 @@
 1. https://github.com/Shruthi-10/heart-trail-animation
 
 
+### Day 7: April 24 2024, Wednesday
+
+**Today's Progress** Barest of bare minimum progress today. Explored different background colors.  
+
+**Thoughts** Mentally low day. Mostly curled up in bed with a book. 
+
+**Link(s) to work**
+1. https://github.com/Shruthi-10/heart-trail-animation
+
+
 
 
