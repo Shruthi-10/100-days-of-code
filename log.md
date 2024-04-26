@@ -71,7 +71,7 @@
 1. https://github.com/Shruthi-10/heart-trail-animation
 
 
-### Day 7: April 24 2024, Wednesday
+### Day 8: April 24 2024, Wednesday
 
 **Today's Progress** Barest of bare minimum progress today. Explored different background colors.  
 
@@ -81,7 +81,7 @@
 1. https://github.com/Shruthi-10/heart-trail-animation
 
 
-### Day 7: April 24 2024, Wednesday
+### Day 9: April 24 2024, Wednesday
 
 **Today's Progress** Experimented with colors in css
 
