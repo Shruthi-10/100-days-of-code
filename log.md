@@ -81,5 +81,11 @@
 1. https://github.com/Shruthi-10/heart-trail-animation
 
 
+### Day 7: April 24 2024, Wednesday
 
+**Today's Progress** Experimented with colors in css
 
+**Thoughts** Sick day, did not get a lot of work done. Hoping to catchup tomorrow. 
+
+**Link(s) to work**
+1. https://github.com/Shruthi-10/Cat-Painting-fcc
