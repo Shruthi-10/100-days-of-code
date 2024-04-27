@@ -81,7 +81,7 @@
 1. https://github.com/Shruthi-10/heart-trail-animation
 
 
-### Day 9: April 24 2024, Wednesday
+### Day 9: April 25 2024, Thursday
 
 **Today's Progress** Experimented with colors in css
 
@@ -89,3 +89,13 @@
 
 **Link(s) to work**
 1. https://github.com/Shruthi-10/Cat-Painting-fcc
+
+
+### Day 10: April 26 2024, Friday
+
+**Today's Progress** Practised javascript exercises from Skillcrush
+
+**Thoughts** Really loving javaScript, but still heavily relying on solutions to understand what is happening. Hope it all starts to make sense soon. 
+
+**Link(s) to work**
+1. https://github.com/Shruthi-10/Potluck-Project-Skillcrush-
