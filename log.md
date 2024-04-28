@@ -99,3 +99,13 @@
 
 **Link(s) to work**
 1. https://github.com/Shruthi-10/Potluck-Project-Skillcrush-
+
+
+### Day 11: April 27 2024, Saturday
+
+**Today's Progress** Halfway into building a piano using html and css
+
+**Thoughts** Freecodecamp projects are very hands on and introduce me to so many new elements than what I learn in Skillcrush. Goodway to supplement my learning. 
+
+**Link(s) to work**
+1. https://github.com/Shruthi-10/Piano-fcc
