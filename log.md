@@ -109,3 +109,16 @@
 
 **Link(s) to work**
 1. https://github.com/Shruthi-10/Piano-fcc
+
+
+### Day 12: April 28 2024, Sunday
+
+**Today's Progress** Worked on a Skillcrush's javaScript project to build an expense tracker that can find out what the minimum and maximum expense is. 
+
+**Thoughts** Trying to read out all coding projects in my mind and trying to explain it to myself. It seems to be helping? Because I seem to understand a little more. 
+
+**Link(s) to work**
+1. https://github.com/Shruthi-10/Expense-Tracker-skillcrush-project
+
+
+
