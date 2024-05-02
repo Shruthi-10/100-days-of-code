@@ -139,3 +139,13 @@
 
 **Link(s) to work**
 1. https://github.com/Shruthi-10/Cat-Painting-fcc
+
+
+### Day 15: May 1 2024, Wednesday
+
+**Today's Progress** Worked on a freecodecamp project
+
+**Thoughts** Very little progress. 
+
+**Link(s) to work**
+1. https://github.com/Shruthi-10/Piano-fcc
