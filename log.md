@@ -149,3 +149,13 @@
 
 **Link(s) to work**
 1. https://github.com/Shruthi-10/Piano-fcc
+
+
+### Day 16: May 2 2024, Thursday
+
+**Today's Progress** Worked on a freecodecamp project and built a piano using HTML and javaScript
+
+**Thoughts** A very satisfying piano 
+
+**Link(s) to work**
+1. https://github.com/Shruthi-10/Piano-fcc
