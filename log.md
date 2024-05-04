@@ -159,3 +159,13 @@
 
 **Link(s) to work**
 1. https://github.com/Shruthi-10/Piano-fcc
+
+
+### Day 17: May 3 2024, Friday
+
+**Today's Progress** Started working on a skillcrush project to learn javaScript
+
+**Thoughts** A very stressful day, I kept worrying that I would not be able to finish the program. I hope I get better at easing the anxiety. 
+
+**Link(s) to work**
+1. https://github.com/Shruthi-10/todo-list-skillcrush
