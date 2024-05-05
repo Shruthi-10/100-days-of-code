@@ -169,3 +169,13 @@
 
 **Link(s) to work**
 1. https://github.com/Shruthi-10/todo-list-skillcrush
+
+
+### Day 18: May 4 2024, Saturday
+
+**Today's Progress** Worked on a skillcrush project to learn javaScript
+
+**Thoughts** I wanna master javaScript
+
+**Link(s) to work**
+1. https://github.com/Shruthi-10/todo-list-skillcrush
