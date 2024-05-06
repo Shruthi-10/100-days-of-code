@@ -175,7 +175,17 @@
 
 **Today's Progress** Worked on a skillcrush project to learn javaScript
 
-**Thoughts** I wanna master javaScript
+**Thoughts** I wanna master javaScript soon :/
 
 **Link(s) to work**
 1. https://github.com/Shruthi-10/todo-list-skillcrush
+
+
+### Day 19: May 5 2024, Sunday
+
+**Today's Progress** Began a freecodecamp project to build a city skyline. 
+
+**Thoughts** Love that I started this 100days of coding project. It keeps me accountable even on days when I would not have touched my laptop. 
+
+**Link(s) to work**
+1. https://github.com/Shruthi-10/city-skyline-fcc
