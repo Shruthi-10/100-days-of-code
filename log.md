@@ -189,3 +189,15 @@
 
 **Link(s) to work**
 1. https://github.com/Shruthi-10/city-skyline-fcc
+
+
+### Day 20: May 6 2024, Monday
+
+**Today's Progress** Started Chingu voyage
+
+**Thoughts** Not a lot of progress today
+
+**Link(s) to work**
+1. https://github.com/chingu-voyages/v49-tier1-team-06
+
+   
