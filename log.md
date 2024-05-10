@@ -200,4 +200,34 @@
 **Link(s) to work**
 1. https://github.com/chingu-voyages/v49-tier1-team-06
 
+
+### Day 21: May 7 2024, Tuesday
+
+**Today's Progress** Worked on FCC tutorial
+
+**Thoughts** No thoughts
+
+**Link(s) to work**
+1. https://github.com/Shruthi-10/city-skyline-fcc
+
+
+### Day 22: May 8 2024, Wednesday
+
+**Today's Progress** Worked on FCC tutorial
+
+**Thoughts** No thoughts today
+
+**Link(s) to work**
+1. https://github.com/Shruthi-10/city-skyline-fcc
+
+   
+### Day 23: May 9 2024, Thursday
+
+**Today's Progress** Worked in creating a cute heart trail animation
+
+**Thoughts** Doing this project helped me understand the possibilities that can be created with CSS and javaScript
+
+**Link(s) to work**
+1. https://github.com/Shruthi-10/heart-trail-animation
+
    
